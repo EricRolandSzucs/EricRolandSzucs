@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Szucs Eric-Roland</h1>
-<h3 align="center">Motivated last year college student</h3>
-
-###
-
-
-
-###
+<h3 align="center">Determined, self-motivated, and detail-oriented final-year college student</h3>
 
 <div align="left">
   <h1>Skills</h1>
@@ -86,8 +80,6 @@
   <img width="12" />
 
 </div>
-
-###
 
 <br clear="both">
 
